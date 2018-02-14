@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#Added the game to github
 def showInstructions():
     #print a main menu and the commands
     print('''
